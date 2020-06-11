@@ -1,60 +1,17 @@
-# [Start Bootstrap - Heroic Features](https://startbootstrap.com/template-overviews/heroic-features/)
+# Excellent Games Repository
 
-[Heroic Features](http://startbootstrap.com/template-overviews/heroic-features/) is a multipurpose HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+This is a simple website built with bootstrap to showcase the games I built in Unity. You can check out the archive [here](https://www.excellent.games)
 
-## Preview
+This website features three games: Balls, Asteroid Busters, and Tanks DEMO.
 
-[![Heroic Features Preview](https://startbootstrap.com/assets/img/templates/heroic-features.jpg)](https://blackrockdigital.github.io/startbootstrap-heroic-features/)
+### Balls
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-heroic-features/)**
+Balls was a game that a team and I built for the Game Programming class. It is inspired by the Marble Blast series, but has a unique take on the game: You can change your ball that allows you to solve a certain obstacle, and each ball has different properties. the **Tennis** ball for instance is small and nimble, and allows you to pass through tight spaces. The **Bowling Ball** is large and heavy, and allows you to clear large gaps that smaller balls would fall right through. The **Basket Ball** is very bouncy, and allows you to jump to higher platforms. Finally, the **Soccer** ball allows you to build up speed and clear large gaps. We had a lot of fun working on Balls, and hopefully you will enjoy playing it!!
 
-## Status
+### Asteroid Busters
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-heroic-features/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-heroic-features.svg)](https://www.npmjs.com/package/startbootstrap-heroic-features)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-heroic-features.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-heroic-features)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-heroic-features/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-heroic-features)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-heroic-features/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-heroic-features?type=dev)
+Asteroid Busters was a game that I created for a midterm, but expanded to play around with Unity. It is basically a side-scroller that allows you to tap the space bar to change direction, and dodge endless asteroids. The game features six different ships that you can unlock, depending on the number of asteroids you can dodge, and interesting powerups that you can pick up.
 
-## Download and Installation
+### Tanks Demo
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/heroic-features/)
-* Install via npm: `npm i startbootstrap-heroic-features`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-heroic-features.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-heroic-features)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-heroic-features/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/heroic-features/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/gh-pages/LICENSE) license.
+I wanted to experiment with third person vehicle gameplay, as well as networking... hence, Tanks was born. In its current form, the player controller is mostly complete, and it allows you to drive around the various terrains I generated for the game, and shoot projectiles.
